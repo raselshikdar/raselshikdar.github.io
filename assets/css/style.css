@@ -287,7 +287,8 @@ article.active {
   content: "";
   position: absolute;
   inset: 1px;
-  background: var(--bg-gradient-jet);
+  background: var(--text-gradient-pink);
+  opacity: 30%;
   border-radius: inherit;
   z-index: -1;
 }
@@ -530,9 +531,10 @@ main {
   content: "";
   position: absolute;
   inset: 1px;
-  background: var(--bg-gradient-jet);
+  background: var(--text-gradient-pink);
   border-radius: inherit;
   z-index: -1;
+  opacity: 30%;
 }
 
 .service-icon-box { margin-bottom: 10px; }
