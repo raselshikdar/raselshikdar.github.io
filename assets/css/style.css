@@ -520,21 +520,27 @@ main {
 
 .service-item {
   position: relative;
-  background: var(--border-gradient-onyx);
   padding: 20px;
   border-radius: 14px;
-  box-shadow: var(--shadow-2);
   z-index: 1;
+  background: var(--border-gradient-onyx);
+  box-shadow: var(--shadow-2);
 }
+
+.service-item:hover, .service-item:focus { background: var(--bg-gradient-pink-1); }
+
+.service-item:hover::before,
+.service-item:focus::before { background: var(--bg-gradient-pink-2); }
 
 .service-item::before {
   content: "";
   position: absolute;
   inset: 1px;
-  background: var(--text-gradient-pink);
   border-radius: inherit;
-  z-index: -1;
   opacity: 30%;
+  background: var(--bg-gradient-jet);
+  transition: var(--transition-1);
+  z-index: -1;
 }
 
 .service-icon-box { margin-bottom: 10px; }
