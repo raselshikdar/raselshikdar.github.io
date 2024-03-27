@@ -774,6 +774,14 @@ main {
 
 .article-title { margin-bottom: 30px; }
 
+.button-download {
+  padding-bottom: 30px;
+  width: 50%;
+}
+
+.label {
+  color: var(--orange-pink-crayola);
+}
 
 /**
  * education and experience 
