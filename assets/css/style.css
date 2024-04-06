@@ -1833,6 +1833,10 @@ textarea.form-input::-webkit-resizer { display: none; }
     z-index: 1;
   }
 
+  .sidebar.active{
+    max-height: initial;
+  }
+  
   .sidebar-info { flex-direction: column; }
 
   .avatar-box img { width: 150px; }
