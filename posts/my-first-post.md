@@ -1,7 +1,3 @@
-<!DOCTYPE html>
-
-<html lang="en">
-
 <head>
 
     <meta charset="UTF-8">
@@ -453,5 +449,3 @@ const t=document.querySelector(".js-scroll-top");if(t){t.onclick=()=>{window.scr
 
 
 </body>
-
-</html>
