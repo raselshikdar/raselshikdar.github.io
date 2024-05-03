@@ -199,18 +199,776 @@
 
       </nav>
 
+
+
+
+
+      <!--
+        - #ABOUT
+      -->
+
+      <article class="about  active" data-page="about">
+
+        <header>
+          <h2 class="h2 article-title">About me</h2>
+        </header>
+
+        <section class="about-text">
+          <p>
+            I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media.
+            I enjoy
+            turning complex problems into simple, beautiful and intuitive designs.
+          </p>
+
+          <p>
+            My job is to build your website so that it is functional and user-friendly but at the same time attractive.
+            Moreover, I
+            add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring
+            across your
+            message and identity in the most creative way. I created web design for many famous brand companies.
+          </p>
+        </section>
+
+
+        <!--
+          - service
+        -->
+
+        <section class="service">
+
+          <h3 class="h3 service-title">What i'm doing</h3>
+
+          <ul class="service-list">
+
+            <li class="service-item">
+
+              <div class="service-icon-box">
+                <img src="./assets/images/icon-design.svg
+                " alt="design icon" width="40">
+              </div>
+
+              <div class="service-content-box">
+                <h4 class="h4 service-item-title">Web design</h4>
+
+                <p class="service-item-text">
+                  The most modern and high-quality design made at a professional level.
+                </p>
+              </div>
+
+            </li>
+
+            <li class="service-item">
+
+              <div class="service-icon-box">
+                <img src="./assets/images/icon-dev.svg" alt="Web development icon" width="40">
+              </div>
+
+              <div class="service-content-box">
+                <h4 class="h4 service-item-title">Web development</h4>
+
+                <p class="service-item-text">
+                  High-quality development of sites at the professional level.
+                </p>
+              </div>
+
+            </li>
+
+            <li class="service-item">
+
+              <div class="service-icon-box">
+                <img src="./assets/images/icon-app.svg" alt="mobile app icon" width="40">
+              </div>
+
+              <div class="service-content-box">
+                <h4 class="h4 service-item-title">Mobile apps</h4>
+
+                <p class="service-item-text">
+                  Professional development of applications for iOS and Android.
+                </p>
+              </div>
+
+            </li>
+
+            <li class="service-item">
+
+              <div class="service-icon-box">
+                <img src="./assets/images/icon-photo.svg" alt="camera icon" width="40">
+              </div>
+
+              <div class="service-content-box">
+                <h4 class="h4 service-item-title">Photography</h4>
+
+                <p class="service-item-text">
+                  I make high-quality photos of any category at a professional level.
+                </p>
+              </div>
+
+            </li>
+
+          </ul>
+
+        </section>
+
+
+        <!--
+          - testimonials
+        -->
+
+        <section class="testimonials">
+
+          <h3 class="h3 testimonials-title">Testimonials</h3>
+
+          <ul class="testimonials-list has-scrollbar">
+
+            <li class="testimonials-item">
+              <div class="content-card" data-testimonials-item>
+
+                <figure class="testimonials-avatar-box">
+                  <img src="./assets/images/avatar-1.png" alt="Daniel lewis" width="60" data-testimonials-avatar>
+                </figure>
+
+                <h4 class="h4 testimonials-item-title" data-testimonials-title>Daniel lewis</h4>
+
+                <div class="testimonials-text" data-testimonials-text>
+                  <p>
+                    Richard was hired to create a corporate identity. We were very pleased with the work done. She has a
+                    lot of experience
+                    and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt
+                    consectetur adipiscing
+                    elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+                  </p>
+                </div>
+
+              </div>
+            </li>
+
+            <li class="testimonials-item">
+              <div class="content-card" data-testimonials-item>
+
+                <figure class="testimonials-avatar-box">
+                  <img src="./assets/images/avatar-2.png" alt="Jessica miller" width="60" data-testimonials-avatar>
+                </figure>
+
+                <h4 class="h4 testimonials-item-title" data-testimonials-title>Jessica miller</h4>
+
+                <div class="testimonials-text" data-testimonials-text>
+                  <p>
+                    Richard was hired to create a corporate identity. We were very pleased with the work done. She has a
+                    lot of experience
+                    and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt
+                    consectetur adipiscing
+                    elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+                  </p>
+                </div>
+
+              </div>
+            </li>
+
+            <li class="testimonials-item">
+              <div class="content-card" data-testimonials-item>
+
+                <figure class="testimonials-avatar-box">
+                  <img src="./assets/images/avatar-3.png" alt="Emily evans" width="60" data-testimonials-avatar>
+                </figure>
+
+                <h4 class="h4 testimonials-item-title" data-testimonials-title>Emily evans</h4>
+
+                <div class="testimonials-text" data-testimonials-text>
+                  <p>
+                    Richard was hired to create a corporate identity. We were very pleased with the work done. She has a
+                    lot of experience
+                    and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt
+                    consectetur adipiscing
+                    elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+                  </p>
+                </div>
+
+              </div>
+            </li>
+
+            <li class="testimonials-item">
+              <div class="content-card" data-testimonials-item>
+
+                <figure class="testimonials-avatar-box">
+                  <img src="./assets/images/avatar-4.png" alt="Henry william" width="60" data-testimonials-avatar>
+                </figure>
+
+                <h4 class="h4 testimonials-item-title" data-testimonials-title>Henry william</h4>
+
+                <div class="testimonials-text" data-testimonials-text>
+                  <p>
+                    Richard was hired to create a corporate identity. We were very pleased with the work done. She has a
+                    lot of experience
+                    and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt
+                    consectetur adipiscing
+                    elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+                  </p>
+                </div>
+
+              </div>
+            </li>
+
+          </ul>
+
+        </section>
+
+
+        <!--
+          - testimonials modal
+        -->
+
+        <div class="modal-container" data-modal-container>
+
+          <div class="overlay" data-overlay></div>
+
+          <section class="testimonials-modal">
+
+            <button class="modal-close-btn" data-modal-close-btn>
+              <ion-icon name="close-outline"></ion-icon>
+            </button>
+
+            <div class="modal-img-wrapper">
+              <figure class="modal-avatar-box">
+                <img src="./assets/images/avatar-1.png" alt="Daniel lewis" width="80" data-modal-img>
+              </figure>
+
+              <img src="./assets/images/icon-quote.svg" alt="quote icon">
+            </div>
+
+            <div class="modal-content">
+
+              <h4 class="h3 modal-title" data-modal-title>Daniel lewis</h4>
+
+              <time datetime="2021-06-14">14 June, 2021</time>
+
+              <div data-modal-text>
+                <p>
+                  Richard was hired to create a corporate identity. We were very pleased with the work done. She has a
+                  lot of experience
+                  and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt
+                  consectetur adipiscing
+                  elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+                </p>
+              </div>
+
+            </div>
+
+          </section>
+
+        </div>
+
+
+        <!--
+          - clients
+        -->
+
+        <section class="clients">
+
+          <h3 class="h3 clients-title">Clients</h3>
+
+          <ul class="clients-list has-scrollbar">
+
+            <li class="clients-item">
+              <a href="#">
+                <img src="./assets/images/logo-1-color.png" alt="client logo">
+              </a>
+            </li>
+
+            <li class="clients-item">
+              <a href="#">
+                <img src="./assets/images/logo-2-color.png" alt="client logo">
+              </a>
+            </li>
+
+            <li class="clients-item">
+              <a href="#">
+                <img src="./assets/images/logo-3-color.png" alt="client logo">
+              </a>
+            </li>
+
+            <li class="clients-item">
+              <a href="#">
+                <img src="./assets/images/logo-4-color.png" alt="client logo">
+              </a>
+            </li>
+
+            <li class="clients-item">
+              <a href="#">
+                <img src="./assets/images/logo-5-color.png" alt="client logo">
+              </a>
+            </li>
+
+            <li class="clients-item">
+              <a href="#">
+                <img src="./assets/images/logo-6-color.png" alt="client logo">
+              </a>
+            </li>
+
+          </ul>
+
+        </section>
+
+      </article>
+
+
+
+
+
+      <!--
+        - #RESUME
+      -->
+
+      <article class="resume" data-page="resume">
+
+        <header>
+          <h2 class="h2 article-title">Resume</h2>
+        </header>
+
+        <section class="timeline">
+
+          <div class="title-wrapper">
+            <div class="icon-box">
+              <ion-icon name="book-outline"></ion-icon>
+            </div>
+
+            <h3 class="h3">Education</h3>
+          </div>
+
+          <ol class="timeline-list">
+
+            <li class="timeline-item">
+
+              <h4 class="h4 timeline-item-title">University school of the arts</h4>
+
+              <span>2007 — 2008</span>
+
+              <p class="timeline-text">
+                Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et
+                quas molestias
+                exceptur.
+              </p>
+
+            </li>
+
+            <li class="timeline-item">
+
+              <h4 class="h4 timeline-item-title">New york academy of art</h4>
+
+              <span>2006 — 2007</span>
+
+              <p class="timeline-text">
+                Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est
+                omnis..
+              </p>
+
+            </li>
+
+            <li class="timeline-item">
+
+              <h4 class="h4 timeline-item-title">High school of art and design</h4>
+
+              <span>2002 — 2004</span>
+
+              <p class="timeline-text">
+                Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur
+                magni dolores
+                eos.
+              </p>
+
+            </li>
+
+          </ol>
+
+        </section>
+
+        <section class="timeline">
+
+          <div class="title-wrapper">
+            <div class="icon-box">
+              <ion-icon name="book-outline"></ion-icon>
+            </div>
+
+            <h3 class="h3">Experience</h3>
+          </div>
+
+          <ol class="timeline-list">
+
+            <li class="timeline-item">
+
+              <h4 class="h4 timeline-item-title">Creative director</h4>
+
+              <span>2015 — Present</span>
+
+              <p class="timeline-text">
+                Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas
+                molestias
+                exceptur.
+              </p>
+
+            </li>
+
+            <li class="timeline-item">
+
+              <h4 class="h4 timeline-item-title">Art director</h4>
+
+              <span>2013 — 2015</span>
+
+              <p class="timeline-text">
+                Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et
+                quas molestias
+                exceptur.
+              </p>
+
+            </li>
+
+            <li class="timeline-item">
+
+              <h4 class="h4 timeline-item-title">Web designer</h4>
+
+              <span>2010 — 2013</span>
+
+              <p class="timeline-text">
+                Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et
+                quas molestias
+                exceptur.
+              </p>
+
+            </li>
+
+          </ol>
+
+        </section>
+
+        <section class="skill">
+
+          <h3 class="h3 skills-title">My skills</h3>
+
+          <ul class="skills-list content-card">
+
+            <li class="skills-item">
+
+              <div class="title-wrapper">
+                <h5 class="h5">Web design</h5>
+                <data value="80">80%</data>
+              </div>
+
+              <div class="skill-progress-bg">
+                <div class="skill-progress-fill" style="width: 80%;"></div>
+              </div>
+
+            </li>
+
+            <li class="skills-item">
+
+              <div class="title-wrapper">
+                <h5 class="h5">Graphic design</h5>
+                <data value="70">70%</data>
+              </div>
+
+              <div class="skill-progress-bg">
+                <div class="skill-progress-fill" style="width: 70%;"></div>
+              </div>
+
+            </li>
+
+            <li class="skills-item">
+
+              <div class="title-wrapper">
+                <h5 class="h5">Branding</h5>
+                <data value="90">90%</data>
+              </div>
+
+              <div class="skill-progress-bg">
+                <div class="skill-progress-fill" style="width: 90%;"></div>
+              </div>
+
+            </li>
+
+            <li class="skills-item">
+
+              <div class="title-wrapper">
+                <h5 class="h5">WordPress</h5>
+                <data value="50">50%</data>
+              </div>
+
+              <div class="skill-progress-bg">
+                <div class="skill-progress-fill" style="width: 50%;"></div>
+              </div>
+
+            </li>
+
+          </ul>
+
+        </section>
+
+      </article>
+
+
+
+
+
+      <!--
+        - #PORTFOLIO
+      -->
+
+      <article class="portfolio" data-page="portfolio">
+
+        <header>
+          <h2 class="h2 article-title">Portfolio</h2>
+        </header>
+
+        <section class="projects">
+
+          <ul class="filter-list">
+
+            <li class="filter-item">
+              <button class="active" data-filter-btn>All</button>
+            </li>
+
+            <li class="filter-item">
+              <button data-filter-btn>Web design</button>
+            </li>
+
+            <li class="filter-item">
+              <button data-filter-btn>Applications</button>
+            </li>
+
+            <li class="filter-item">
+              <button data-filter-btn>Web development</button>
+            </li>
+
+          </ul>
+
+          <div class="filter-select-box">
+
+            <button class="filter-select" data-select>
+
+              <div class="select-value" data-selecct-value>Select category</div>
+
+              <div class="select-icon">
+                <ion-icon name="chevron-down"></ion-icon>
+              </div>
+
+            </button>
+
+            <ul class="select-list">
+
+              <li class="select-item">
+                <button data-select-item>All</button>
+              </li>
+
+              <li class="select-item">
+                <button data-select-item>Web design</button>
+              </li>
+
+              <li class="select-item">
+                <button data-select-item>Applications</button>
+              </li>
+
+              <li class="select-item">
+                <button data-select-item>Web development</button>
+              </li>
+
+            </ul>
+
+          </div>
+
+          <ul class="project-list">
+
+            <li class="project-item  active" data-filter-item data-category="web development">
+              <a href="#">
+
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+
+                  <img src="./assets/images/project-1.jpg" alt="finance" loading="lazy">
+                </figure>
+
+                <h3 class="project-title">Finance</h3>
+
+                <p class="project-category">Web development</p>
+
+              </a>
+            </li>
+
+            <li class="project-item  active" data-filter-item data-category="web development">
+              <a href="#">
+
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+
+                  <img src="./assets/images/project-2.png" alt="orizon" loading="lazy">
+                </figure>
+
+                <h3 class="project-title">Orizon</h3>
+
+                <p class="project-category">Web development</p>
+
+              </a>
+            </li>
+
+            <li class="project-item  active" data-filter-item data-category="web design">
+              <a href="#">
+
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+
+                  <img src="./assets/images/project-3.jpg" alt="fundo" loading="lazy">
+                </figure>
+
+                <h3 class="project-title">Fundo</h3>
+
+                <p class="project-category">Web design</p>
+
+              </a>
+            </li>
+
+            <li class="project-item  active" data-filter-item data-category="applications">
+              <a href="#">
+
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+
+                  <img src="./assets/images/project-4.png" alt="brawlhalla" loading="lazy">
+                </figure>
+
+                <h3 class="project-title">Brawlhalla</h3>
+
+                <p class="project-category">Applications</p>
+
+              </a>
+            </li>
+
+            <li class="project-item  active" data-filter-item data-category="web design">
+              <a href="#">
+
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+
+                  <img src="./assets/images/project-5.png" alt="dsm." loading="lazy">
+                </figure>
+
+                <h3 class="project-title">DSM.</h3>
+
+                <p class="project-category">Web design</p>
+
+              </a>
+            </li>
+
+            <li class="project-item  active" data-filter-item data-category="web design">
+              <a href="#">
+
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+
+                  <img src="./assets/images/project-6.png" alt="metaspark" loading="lazy">
+                </figure>
+
+                <h3 class="project-title">MetaSpark</h3>
+
+                <p class="project-category">Web design</p>
+
+              </a>
+            </li>
+
+            <li class="project-item  active" data-filter-item data-category="web development">
+              <a href="#">
+
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+
+                  <img src="./assets/images/project-7.png" alt="summary" loading="lazy">
+                </figure>
+
+                <h3 class="project-title">Summary</h3>
+
+                <p class="project-category">Web development</p>
+
+              </a>
+            </li>
+
+            <li class="project-item  active" data-filter-item data-category="applications">
+              <a href="#">
+
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+
+                  <img src="./assets/images/project-8.jpg" alt="task manager" loading="lazy">
+                </figure>
+
+                <h3 class="project-title">Task Manager</h3>
+
+                <p class="project-category">Applications</p>
+
+              </a>
+            </li>
+
+            <li class="project-item  active" data-filter-item data-category="web development">
+              <a href="#">
+
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+
+                  <img src="./assets/images/project-9.png" alt="arrival" loading="lazy">
+                </figure>
+
+                <h3 class="project-title">Arrival</h3>
+
+                <p class="project-category">Web development</p>
+
+              </a>
+            </li>
+
+          </ul>
+
+        </section>
+
+      </article>
+
+
+
+
+
       <!--
         - #BLOG
       -->
 
       <article class="blog" data-page="blog">
-      <section class="blog-posts">
-      
-      <figure class="blog-banner-box">
+
+        <header>
+          <h2 class="h2 article-title">Blog</h2>
+        </header>
+
+        <section class="blog-posts">
+
+          <ul class="blog-posts-list">
+
+            <li class="blog-post-item">
+              <a href="article/post.html">
+
+                <figure class="blog-banner-box">
                   <img src="./assets/images/blog-1.jpg" alt="Design conferences in 2022" loading="lazy">
                 </figure>
 
-  <div class="blog-content">
+                <div class="blog-content">
 
                   <div class="blog-meta">
                     <p class="blog-category">Design</p>
@@ -223,7 +981,7 @@
                   <h3 class="h3 blog-item-title">Design conferences in 2022</h3>
 
                   <p class="blog-text">
-                    <p>হ্যালো টেকপ্রেমী বন্ধুরা, আশা করি সবাই ভালো আছেন। আজকে আমি শেয়ার করতে যাচ্ছি অনলাইনের একটি গুরুত্বপূর্ণ বিষয় নিয়ে। আশা করি পোস্টটি আপনাদের উপকারে আসবে। তাই সম্পূর্ণ পোস্টটি পড়তে ভুলবেন না।</p><br/>
+                    হ্যালো টেকপ্রেমী বন্ধুরা, আশা করি সবাই ভালো আছেন। আজকে আমি শেয়ার করতে যাচ্ছি অনলাইনের একটি গুরুত্বপূর্ণ বিষয় নিয়ে। আশা করি পোস্টটি আপনাদের উপকারে আসবে। তাই সম্পূর্ণ পোস্টটি পড়তে ভুলবেন না।</p><br/>
 
 <div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCKDnEiZ9IEKs1UpJUftpgdaR3zo6xQlK05zQrkz3OIgussrjhmK0nzJ4W8QdeAP518bliJER-rkXJxWL_dhULpRP9dhvp1GQvTRBoxImUEdhfdjIBPf9ktCC8WhCbcvmx6NpIfSQKVmCPe8mkVNEw6zgPDx73GNRVdO0M6R_2-GY6b93_YNTPUmvONEI/s640/What%20is%20Phishing%20and%20How%20to%20Prevent%20it.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="ফিশিং অ্যাটাক - Phishing Attack" border="0" width="600" data-original-height="428" data-original-width="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCKDnEiZ9IEKs1UpJUftpgdaR3zo6xQlK05zQrkz3OIgussrjhmK0nzJ4W8QdeAP518bliJER-rkXJxWL_dhULpRP9dhvp1GQvTRBoxImUEdhfdjIBPf9ktCC8WhCbcvmx6NpIfSQKVmCPe8mkVNEw6zgPDx73GNRVdO0M6R_2-GY6b93_YNTPUmvONEI/s600/What%20is%20Phishing%20and%20How%20to%20Prevent%20it.jpg"/></a></div>
 <center>Image Source: <a href="https://pixabay.com/illustrations/hack-fraud-card-code-computer-3671982/">Pixabay</a></center><br/>
@@ -292,73 +1050,218 @@
 <p>আজকে এ পর্যন্তই। সবার ইন্টারনেট ব্যবহার নিরাপদ হোক।
   সবাই ভালো থাকবেন।</p>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "ফিশিং অ্যাটাক কী?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "ফিশিং একটি ইংরেজি শব্দ। এর মানে হলো প্রতারণা বা ধোকা দেওয়ার মাধ্যমে কারো নিকট থেকে তার ব্যক্তিগত বা ব্যাংক লেনদেন গত কোন তথ্য হাতিয়ে নেওয়া। এটি এক ধরনের সাইবার অপরাধ, যেখানে অপরাধীরা কোন বিশ্বস্ত ব্যক্তি বা প্রতিষ্ঠানের বেশ ধারণ করে টার্গেট করা ব্যক্তিকে প্রতারণার ফাঁদে ফেলে বা যেকোন উপায়ে বোকা বানিয়ে তার সংবেদনশীল তথ্য, ব্যক্তিগত ও আর্থিক লেনদেন গত তথ্য যেমন ব্যাংকিং ইনফর্মেশন, ক্রেডিট কার্ডের বিবরণ, পাসওয়ার্ড, পিন কোড ইত্যাদি হাতিয়ে নেয়। এক্ষেত্রে তারা বিভিন্ন ধরনের প্রলোভন ব্যবহার করে থাকে। যাতে করে টার্গেটেড ব্যক্তি সহজেই প্রতারণার ফাঁদে পা দেয় এবং তার সংবেদনশীল তথ্য গুলো প্রতারকের হাতে তুলে দেয়। অনেক সময় ব্যক্তি বুঝতেও পারে না সেই ইতোমধ্যেই প্রতারিত হয়ে গেছে।"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is Phishing Attack?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "ফিশিং একটি ইংরেজি শব্দ। এর মানে হলো প্রতারণা বা ধোকা দেওয়ার মাধ্যমে কারো নিকট থেকে তার ব্যক্তিগত বা ব্যাংক লেনদেন গত কোন তথ্য হাতিয়ে নেওয়া। এটি এক ধরনের সাইবার অপরাধ, যেখানে অপরাধীরা কোন বিশ্বস্ত ব্যক্তি বা প্রতিষ্ঠানের বেশ ধারণ করে টার্গেট করা ব্যক্তিকে প্রতারণার ফাঁদে ফেলে বা যেকোন উপায়ে বোকা বানিয়ে তার সংবেদনশীল তথ্য, ব্যক্তিগত ও আর্থিক লেনদেন গত তথ্য যেমন ব্যাংকিং ইনফর্মেশন, ক্রেডিট কার্ডের বিবরণ, পাসওয়ার্ড, পিন কোড ইত্যাদি হাতিয়ে নেয়। এক্ষেত্রে তারা বিভিন্ন ধরনের প্রলোভন ব্যবহার করে থাকে। যাতে করে টার্গেটেড ব্যক্তি সহজেই প্রতারণার ফাঁদে পা দেয় এবং তার সংবেদনশীল তথ্য গুলো প্রতারকের হাতে তুলে দেয়। অনেক সময় ব্যক্তি বুঝতেও পারে না সেই ইতোমধ্যেই প্রতারিত হয়ে গেছে।"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "ফিশিং কিভাবে হয়?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "অত্যন্ত আকর্ষণীয় ও চটকদার বিজ্ঞাপন যা সহজেই মানুষকে আকৃষ্ট করে। যেমন, অনেক সময় অনেক ওয়েবসাইটে প্রবেশ করলে দেখানো হয় যে আপনি একটি আইফোন জিতেছেন কিংবা একটি বড় অ্যামাউন্ট এর লটারি জিতেছেন। বা হতে পারে আপনি কোন বড় উপহার পেয়েছেন এই ধরনের লেখা সম্বলিত কোন তথ্য। মনে রাখবেন এটি যতই ভালো লাগুক এবং আকর্ষণীয় হোক না কেন এটি মিথ্যা প্রলোভন ব্যতীত আর কিছু নয়।"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How Does Phishing Attack Happen?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "অত্যন্ত আকর্ষণীয় ও চটকদার বিজ্ঞাপন যা সহজেই মানুষকে আকৃষ্ট করে। যেমন, অনেক সময় অনেক ওয়েবসাইটে প্রবেশ করলে দেখানো হয় যে আপনি একটি আইফোন জিতেছেন কিংবা একটি বড় অ্যামাউন্ট এর লটারি জিতেছেন। বা হতে পারে আপনি কোন বড় উপহার পেয়েছেন এই ধরনের লেখা সম্বলিত কোন তথ্য। মনে রাখবেন এটি যতই ভালো লাগুক এবং আকর্ষণীয় হোক না কেন এটি মিথ্যা প্রলোভন ব্যতীত আর কিছু নয়।"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "ফিশিং থেকে বাঁচার উপায়",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "ফিশিং থেকে নিরাপদ থাকার শ্রেষ্ঠ উপায় হচ্ছে সতর্কতা অবলম্বন করা। সন্দেহজনক কোনো বিজ্ঞাপন, ওয়েবসাইট, ইমেইল কিংবা লিংকে প্রবেশ করার পূর্বে সতর্কতা অবলম্বন করা। নিম্নে আরো কিছু টিপস প্রদান করা হল"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "ফিশিং এর প্রকারভেদ",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "অপরাধীরা ফিশিং করার ক্ষেত্রে যেভাবে ও যে মাধ্যমগুলো ব্যবহার করে তা সম্পর্কে নিম্নে আলোচনা করা হলোঃ&lt;br/&gt;\nb&gt;ইমেইল ফিশিং&lt;/b&gt; - এই পদ্ধতিতে প্রতারকেরা ব্যবহারকারীর নিকট বিভিন্ন সু-প্রতিষ্ঠিত বা সুপরিচিত ব্যাংক, কুরিয়ার সার্ভিস, অনলাইন শপিং ওয়েবসাইট, অনলাইন ক্যাসিনো কিংবা দাতব্য সংস্থার মতো দেখতে প্রায় একই নামে বা লিংকে ইমেইল প্রেরণ করে থাকে। ইমেইলে তারা ব্যবহারকারীকে তার একাউন্টে কোন সমস্যা আছে বা সে কোন লোভনীয় পুরস্কার জিতেছে এই বিষয়ে বলা হয়ে থাকে। তারপর তারা ব্যবহারকারীকে একটি লিংকে ক্লিক করে সেই সমস্যার সমাধান কিংবা পুরস্কারটি গ্রহণ করতে বলে সেখানে ক্লিক করলে ব্যবহারকারীকে এমন একটি ওয়েবসাইটে নিয়ে যাওয়া হয় যেখানে ব্যবহারকারীকে তার ব্যক্তিগত একাউন্টের তথ্য ব্যবহার করে লগইন করতে বলা হয় যা প্রতারকেরা সংগ্রহ করে নেয়।"
-      }
-    }
-  ]
-}
-  </script>
+                </div>
+
+              </a>
+            </li>
+
+            <li class="blog-post-item">
+              <a href="#">
+
+                <figure class="blog-banner-box">
+                  <img src="./assets/images/blog-2.jpg" alt="Best fonts every designer" loading="lazy">
+                </figure>
+
+                <div class="blog-content">
+
+                  <div class="blog-meta">
+                    <p class="blog-category">Design</p>
+
+                    <span class="dot"></span>
+
+                    <time datetime="2022-02-23">Fab 23, 2022</time>
+                  </div>
+
+                  <h3 class="h3 blog-item-title">Best fonts every designer</h3>
+
+                  <p class="blog-text">
+                    Sed ut perspiciatis, nam libero tempore, cum soluta nobis est eligendi.
                   </p>
 
                 </div>
-		
+
+              </a>
+            </li>
+
+            <li class="blog-post-item">
+              <a href="#">
+
+                <figure class="blog-banner-box">
+                  <img src="./assets/images/blog-3.jpg" alt="Design digest #80" loading="lazy">
+                </figure>
+
+                <div class="blog-content">
+
+                  <div class="blog-meta">
+                    <p class="blog-category">Design</p>
+
+                    <span class="dot"></span>
+
+                    <time datetime="2022-02-23">Fab 23, 2022</time>
+                  </div>
+
+                  <h3 class="h3 blog-item-title">Design digest #80</h3>
+
+                  <p class="blog-text">
+                    Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit.
+                  </p>
+
+                </div>
+
+              </a>
+            </li>
+
+            <li class="blog-post-item">
+              <a href="#">
+
+                <figure class="blog-banner-box">
+                  <img src="./assets/images/blog-4.jpg" alt="UI interactions of the week" loading="lazy">
+                </figure>
+
+                <div class="blog-content">
+
+                  <div class="blog-meta">
+                    <p class="blog-category">Design</p>
+
+                    <span class="dot"></span>
+
+                    <time datetime="2022-02-23">Fab 23, 2022</time>
+                  </div>
+
+                  <h3 class="h3 blog-item-title">UI interactions of the week</h3>
+
+                  <p class="blog-text">
+                    Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi.
+                  </p>
+
+                </div>
+
+              </a>
+            </li>
+
+            <li class="blog-post-item">
+              <a href="#">
+
+                <figure class="blog-banner-box">
+                  <img src="./assets/images/blog-5.jpg" alt="The forgotten art of spacing" loading="lazy">
+                </figure>
+
+                <div class="blog-content">
+
+                  <div class="blog-meta">
+                    <p class="blog-category">Design</p>
+
+                    <span class="dot"></span>
+
+                    <time datetime="2022-02-23">Fab 23, 2022</time>
+                  </div>
+
+                  <h3 class="h3 blog-item-title">The forgotten art of spacing</h3>
+
+                  <p class="blog-text">
+                    Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  </p>
+
+                </div>
+
+              </a>
+            </li>
+
+            <li class="blog-post-item">
+              <a href="#">
+
+                <figure class="blog-banner-box">
+                  <img src="./assets/images/blog-6.jpg" alt="Design digest #79" loading="lazy">
+                </figure>
+
+                <div class="blog-content">
+
+                  <div class="blog-meta">
+                    <p class="blog-category">Design</p>
+
+                    <span class="dot"></span>
+
+                    <time datetime="2022-02-23">Fab 23, 2022</time>
+                  </div>
+
+                  <h3 class="h3 blog-item-title">Design digest #79</h3>
+
+                  <p class="blog-text">
+                    Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum.
+                  </p>
+
+                </div>
+
+              </a>
+            </li>
+
+          </ul>
 
         </section>
 
       </article>
-</div>
+
+
+
+
+
+      <!--
+        - #CONTACT
+      -->
+
+      <article class="contact" data-page="contact">
+
+        <header>
+          <h2 class="h2 article-title">Contact</h2>
+        </header>
+
+        <section class="mapbox" data-mapbox>
+          <figure>
+            <iframe
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d58205.28271932323!2d89.87597058421359!3d24.24771796436181!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39fdfbe3d271b363%3A0x8a0d420f347f7c7c!2sTangail!5e0!3m2!1sen!2sbd!4v1714285297174!5m2!1sen!2sbd"
+              width="400" height="300" loading="lazy"></iframe>
+          </figure>
+        </section>
+
+        <section class="contact-form">
+
+          <h3 class="h3 form-title">Contact Form</h3>
+
+          <form action="https://api.web3forms.com/submit" method="POST" class="form" data-form>
+
+            <!-- Custom URL -->
+<input type="hidden" name="redirect" value="https://raselshikdar.is-a.dev/success.html">
+
+    <!-- Replace with your Access Key -->
+    <input type="hidden" name="access_key" value="3cede0c4-5f80-4b97-a890-e53e06bcdffc">
+
+            <div class="input-wrapper">
+              <input type="text" name="fullname" class="form-input" placeholder="Full name" required data-form-input>
+
+              <input type="email" name="email" class="form-input" placeholder="Email address" required data-form-input>
+            </div>
+
+            <textarea name="message" class="form-input" placeholder="Your Message" required data-form-input></textarea>
+
+            <button class="form-btn" type="submit" enabled data-form-btn>
+              <ion-icon name="paper-plane"></ion-icon>
+              <span>Send Message</span>
+            </button>
+
+          </form>
+
+        </section>
+
+      </article>
+
+    </div>
 
   </main>
+
+
+
+
+
 
   <!--
     - custom js link
@@ -374,4 +1277,3 @@
 </body>
 
 </html>
-      
