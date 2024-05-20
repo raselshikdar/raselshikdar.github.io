@@ -2,6 +2,8 @@
 
 Demo: https://rasel.is-a.dev
 
+https://rasel.pages.dev
+
 https://raselshikdar.is-a.dev
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
