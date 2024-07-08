@@ -43,7 +43,7 @@ git clone https://github.com/raselshikdar/raselshikdar.github.io.git
 
 ## Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/rasel597).
+If you want to contact me you can reach me at [Twitter](https://www.twitter.com/RaselShikdar_).
 
 ## License
 
